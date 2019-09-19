@@ -1,3 +1,3 @@
 # Homework1
 
-Demo (https://media.giphy.com/media/igVEV0I1dfgVk5jTdk/giphy.gif)
+Demo (https://giphy.com/gifs/igVEV0I1dfgVk5jTdk/html5)
